@@ -4,10 +4,10 @@ endpoint = awscli_plugin_endpoint
 [default]
 region = us-east-1
 iam =
-    endpoint_url = http://aws
+    endpoint_url = http://<uri>
 lambda =
-    endpoint_url = http://aws
+    endpoint_url = http://<uri>
 s3 =
-    endpoint_url = http://aws
+    endpoint_url = http://<uri>
 s3api =
-    endpoint_url = http://aws
+    endpoint_url = http://<uri>
